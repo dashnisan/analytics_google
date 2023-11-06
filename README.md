@@ -17,7 +17,7 @@ The dataset contains:
 | Column name  | Type | Description |
 |:------------:|:----:|:------------|
 | satisfaction_level| int | The employee’s self-reported satisfaction level [0-1] |
-| last_evalueation| | int | Score of employee's last performance review [0–1] |
+| last_evalueation | int | Score of employee's last performance review [0–1] |
 | number_project | int | Number of projects employee contributes to |
 | average_monthly_hours | int | Average number of hours employee worked per month |
 | time_spend_company | int | How long the employee has been with the company (years) |
