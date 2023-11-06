@@ -24,7 +24,7 @@ The dataset contains:
 | work_accident | int | Whether or not the employee experienced an accident while at work |
 | left | int | Whether or not the employee left the company |
 |promotion_last_5years | int | Whether or not the employee was promoted in the last 5 years |
-| department | string | 200~The employee's department |
+| department | string | The employee's department |
 | salary | str | The employee's salary (low, medium, or high) |
 
 
