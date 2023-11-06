@@ -28,7 +28,7 @@ The dataset contains:
 | salary | str | The employee's salary (low, medium, or high) |
 
 
-For the rest of the courses (folders 1 through 4) refer to a dataset called waze_dataset.csv. It contains synthetic data created for this project in partnership with Waze. 
+The rest of the courses (folders 1 through 4) refer to a dataset called waze_dataset.csv. It contains synthetic data created for this project in partnership with Waze. 
 
 The dataset contains:
 
